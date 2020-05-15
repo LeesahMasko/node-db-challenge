@@ -1,6 +1,6 @@
-// const { getRecipes, getShoppingList, getInstructions } = require('./router/recipe_model');
+// const { getTasks } = require('./projects/models/tasks-model');
 
-// getInstructions(1).then((out) => {
+// getTasks(1).then((out) => {
 //   console.log(out);
 //   process.exit(0);
 // }).catch(console.error);
